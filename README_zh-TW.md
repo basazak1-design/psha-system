@@ -115,3 +115,15 @@ PSHA 在問：*「這個流程的形狀應該長什麼樣？」*
 ---
 
 *授權：CC BY 4.0（概念文件）· 實作細節保留版權*
+
+---
+
+# Appendix
+
+For readers interested in the conceptual foundations of PSHA, the following supplementary documents are provided.
+
+- **Appendix A – Natural Language to PSHA Topology (English)**  
+  <APPENDIX_Natural_Language_to_PSHA_Topology.md>
+
+- **附錄 A－自然語言判斷至 PSHA 拓撲（繁體中文）**  
+  <APPENDIX_Natural_Language_to_PSHA_Topology_zh-TW.md>
